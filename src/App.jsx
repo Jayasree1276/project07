@@ -108,7 +108,7 @@ class App extends Component {
               </div>
             </div>
 
-KPN 5848, [25-08-2025 12:45 PM]
+
 <div className='grid'>
               <div>
                 <label>Password *</label>
